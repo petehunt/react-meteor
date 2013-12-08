@@ -1,3 +1,3 @@
-# react-boilerplate
+# react-meteor
 
-Don't use this yet!
+Based off of @benjamn's excellent `meteor-react` package (but packaged for npm instead).
